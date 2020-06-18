@@ -1,0 +1,105 @@
+html
+{
+    background: black;
+    color: white;
+    font-family: "Comic Sans MS";
+
+}
+#form
+{
+    background: #7f53cd;
+    color: aqua;
+    text-align: center;
+    border: 3px solid #bafff5;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+}
+#form1
+{
+    background: aqua;
+    color: aqua;
+    text-align: center;
+    border: 3px solid aqua;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    width: 80%;
+}
+#form1 img
+{
+    border-radius: 100px;
+}
+
+#form table
+{
+
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+#form option
+{
+    width: 200px;
+}
+#form1 table
+{
+    background: black;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+#form table td
+{
+    text-align: right;
+}
+#form1 table td
+{
+    text-align: center;
+    width: 500px;
+}
+input:hover
+{
+    border: 3px solid yellow;
+}
+#komunikat
+{
+    text-align: center;
+}
+#form3
+{
+   /* background: #ca96cb;*/
+    background: aqua;
+    color: aqua;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+#form3 img
+{
+    border-radius: 100px;
+}
+#form3 table
+{
+    background: black;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    margin-top: 0;
+}
+#form3 table td
+{
+    text-align: center;
+    width: 400px;
+}
+#przycisk:hover
+{
+    background: yellow;
+    cursor: pointer;
+}
