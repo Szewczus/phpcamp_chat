@@ -12,8 +12,19 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\xampp\htdocs\api_chat\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1dLwNeYsldRfEgaINORoo7Mb8N7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,7 +72,9 @@
       <option name="presentableId" value="Default" />
       <updated>1592217643142</updated>
       <workItem from="1592217644979" duration="3945000" />
-      <workItem from="1592321321361" duration="70886000" />
+      <workItem from="1592321321361" duration="72713000" />
+      <workItem from="1592770861166" duration="3653000" />
+      <workItem from="1592815721917" duration="2421000" />
     </task>
     <servers />
   </component>
@@ -105,6 +118,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1592465095751" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1592815752815">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.61.1280.994@0.0.1536.834" timestamp="1592815752815" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1592770883968" />
     <state x="401" y="33" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592406042348">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
